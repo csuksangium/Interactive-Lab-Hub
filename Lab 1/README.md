@@ -2,7 +2,19 @@
 
 # Staging Interaction
 
-\*\***NAME OF COLLABORATORS HERE**\*\*
+Chanan Suksangium (cs2475)
+
+Part A: Plan
+
+Part B: Acting out the interaction
+
+Part C: Prototyping the device
+
+Part D: Wizard the device
+
+Part E: Costume the device
+
+Part F: Record the interaction
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
