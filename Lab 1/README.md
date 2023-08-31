@@ -5,6 +5,24 @@
 Chanan Suksangium (cs2475)
 
 Part A: Plan
+A light source that illuminates to the color based on ambience of the environment
+Maintenance person at night when there is insufficient light source to do work
+  Setting:
+  - At night, in a studio apartment
+  - 
+
+  Players:
+  - Maintenance person
+  - Sleeping children
+  - Dog
+  - 
+
+  Activity:
+
+  Goals:
+  - Maintenance person aims to visit a family of 3 in a studio apartment for emergency fix and interrupt sleeping a minimal as possible
+
+  
 
 Part B: Acting out the interaction
 
