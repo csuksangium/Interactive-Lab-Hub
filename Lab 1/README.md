@@ -7,20 +7,30 @@ Chanan Suksangium (cs2475)
 Part A: Plan
 A light source that illuminates to the color based on ambience of the environment
 Maintenance person at night when there is insufficient light source to do work
+
   Setting:
-  - At night, in a studio apartment
-  - 
+  - Late night (ie. 2am), in a modern 600sqft studio highrise apartment in Brooklyn
 
   Players:
-  - Maintenance person
-  - Sleeping children
-  - Dog
-  - 
+  - On-site maintenance person
+  - Sleeping child
+  - Pets (Dog, cat)
+  - Husband, wife (tenant)
 
   Activity:
+  Apartment unit has semi-emergency appliance & utilities issues at night that cannot wait until the morning to be fixed. Husband & wife require immediate repairs, so maintenance person is called over to fix the issue (ie. water leakage, fridge failure, heater failure in winter, AC failure in summer)
+  
+  - Maintenance person (main player) requires a light source to illuminate repair site
+  - Husband & wife watches over maintenance person while repair is in progress
+  - Child is sleeping
+  - Pets are alerted when maintenance person enters the home
 
   Goals:
-  - Maintenance person aims to visit a family of 3 in a studio apartment for emergency fix and interrupt sleeping a minimal as possible
+  - Maintenance person needs to repair the issue in the studio apartment
+  - However, maintenance person wants to cause minimal disruption for the family's sleep cycle, especially the sleeping child
+  - Husband, wife wants the repair to be done
+  - Husband, wife does not want to wake the sleeping child
+  - Pets want to greet/investigate the stranger entering the apartment
 
   
 
