@@ -45,10 +45,7 @@ Maintenance person at night when there is insufficient light source to do work
 
 ![IMG_0045](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/c11c9c46-dde2-462c-b2a9-4a42d7b069a6)
 
-
-
-
-
+![IMG_0044](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/86754717-b2d0-404f-91ea-0631c2479616)
 
 Part B: Acting out the interaction
 
