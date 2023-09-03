@@ -50,11 +50,15 @@ Maintenance person at night when there is insufficient light source to do work
 Part B: Acting out the interaction
 
 **Are there things that seemed better on paper than acted out?**
+
 - I enjoy working with the overall concept because the product can be extended to other senses ie. sound, smell
+  
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+  
 - Light source should be detachable. For example in certain repair circumstances it may be better on wrist instead of on head.
 
 Part C: Prototyping the device
+
 **Give us feedback on Tinkerbelle.**
 
 
