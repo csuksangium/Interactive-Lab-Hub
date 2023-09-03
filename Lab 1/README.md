@@ -32,6 +32,8 @@ Maintenance person at night when there is insufficient light source to do work
   - Husband, wife does not want to wake the sleeping child
   - Pets want to greet/investigate the stranger entering the apartment
 
+
+![IMG_4E2444D5C532-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/5e2b321f-c073-42cc-9034-ac1b46d1379f)
   
 
 Part B: Acting out the interaction
