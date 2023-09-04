@@ -128,11 +128,16 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
-## Make it your own
+## Part 2.A: Plan
 
-Do last week’s assignment again, but this time: 
-1) It doesn’t have to (just) use light, 
-2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative! Feel free to fork and modify the tinkerbell code! 
-3) We will be grading with an emphasis on creativity. 
+## Part 2.B: Act out the interaction
+
+## Part 2.C: Prototype the device
+
+## Part 2.D: Wizard the device
+
+## Part 2.E: Costume the device
+
+## Part 2.F: Record the interaction
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
