@@ -1,7 +1,7 @@
 # Chanan Suksangium's-Lab-Hub
-for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/)
+for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/) Fall 2023 at Cornell Tech taught by Professor Wendy Ju
 
-Please place links here to the README.md's for each of your labs here:
+Please navigate to the relevant labs below:
 
 [Lab 1. Staging Interaction](Lab%201/)
 
