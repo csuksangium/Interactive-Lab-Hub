@@ -126,7 +126,7 @@ https://youtu.be/3UTe3T_-N9k
 
 Recording #3 - Day time repair with pet
 
-
+https://youtu.be/GxGZchqH-J8
 
 # Staging Interaction, Part 2 
 
@@ -167,3 +167,11 @@ https://youtu.be/IEYNCN8_mls
 Recording #2 - Night leak & sleeping child scenario
 
 https://youtu.be/e46AGwKrnnU
+
+Recording #3 - Day time repair with pet & music
+
+https://youtu.be/bepUL2-T0xo
+
+## Comments & Acknowledgement
+
+For this project, I wanted to explore more ideas, but I joined this class on 08/31 and had to complete the project solo in 5 days, so I went with the first ideas that popped into my head. I also discovered that attempting to film alone was NOT easy, so I went with 1st person perspective for the recording. However, I enjoyed the entire process regardless as I got to self explore the various processes of staging interaction.
