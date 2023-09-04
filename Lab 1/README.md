@@ -159,4 +159,10 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
+Recording #1 - Oven repair & No one home
+
 https://youtu.be/IEYNCN8_mls
+
+Recording #2 - Night leak & sleeping child scenario
+
+https://youtu.be/e46AGwKrnnU
