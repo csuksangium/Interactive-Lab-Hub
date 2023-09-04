@@ -32,15 +32,19 @@ Maintenance person at night when there is insufficient light source to do work
   - Husband, wife does not want to wake the sleeping child
   - Pets want to greet/investigate the stranger entering the apartment
 
-**#1: Night leak repair. There is a sleeping child, so the light will account for shade that will minimally affect sleepers**
+**#1: Night, dark repair. There is a sleeping child, so the light will account for shade that will minimally affect sleepers**
 
 ![IMG_4E2444D5C532-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/5e2b321f-c073-42cc-9034-ac1b46d1379f)
 
-**#2: Day leak repair. There is a napping child, so the light will account for day shade as it does not require as much light**
+**#2: Day repair. There is a napping child, so the light will account for day shade as it does not require as much light**
 
 ![IMG_A4972CF803AC-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/1b3d3432-f709-4c0d-b63d-15571f265921)
 
+**#3: Day repair. No one is sleeping, so the light will blast the maximum luminous efficacy to see dark repair under sink**
+
 ![IMG_0041](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/5fdc2c39-c09c-429c-ad91-9484d4a000b6)
+
+**#3: Day fridge repair. No one is sleeping, but fridge has natural sun, so it will not light up to save battery**
 
 ![IMG_0042](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/e75b7043-56d4-4cb2-a59e-caeea367c1d8)
 
