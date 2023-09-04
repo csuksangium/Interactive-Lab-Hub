@@ -147,14 +147,19 @@ You will be assigned three partners from another group. Go to their github pages
 
 ## Part 2.B: Act out the interaction
 
-## Part 2.C: Prototype the device
+**Are there things that seemed better on paper than acted out?**
 
-## Part 2.D: Wizard the device
+- Sound was a great addition to the concept, but smell is something that is a bit more difficult to act out and record.
+  
+**Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
+- The idea of adding smell and sound to the device came tp me as I was recording the interaction in part 1
 
 ## Part 2.E: Costume the device
 
-![IMG_550F32A7B4C9-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/6f4f8967-168e-4a5f-9d95-7a99449e5ef4)
+I decided to build upon the concept that I explored in lab part 1 but incorporating other tangible sense: smell and sound, to make the device better overall as an immersive device.
 
+![IMG_550F32A7B4C9-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/6f4f8967-168e-4a5f-9d95-7a99449e5ef4)
 
 ## Part 2.F: Record the interaction
 
@@ -174,4 +179,6 @@ https://youtu.be/bepUL2-T0xo
 
 ## Comments & Acknowledgement
 
-For this project, I wanted to explore more ideas, but I joined this class on 08/31 and had to complete the project solo in 5 days, so I went with the first ideas that popped into my head. I also discovered that attempting to film alone was NOT easy, so I went with 1st person perspective for the recording. However, I enjoyed the entire process regardless as I got to self explore the various processes of staging interaction.
+For this project, I wanted to explore more ideas, but I joined this class on 08/31 and had to complete the project solo in 5 days, so I went with the first ideas that popped into my head. I also discovered that attempting to film alone was NOT easy, so I went with 1st person perspective for the recording. However, I enjoyed the entire process regardless as I got to self explore the various processes of staging interaction, particularly how ideas and creativity evolved throughout the process.
+
+I was also having internet issues, so I opted for an app as a light source similar to Tinkerbell for some of the videos.
