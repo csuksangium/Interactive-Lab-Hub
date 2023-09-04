@@ -61,6 +61,7 @@ Part C: Prototyping the device
 
 **Give us feedback on Tinkerbelle.**
 
+I think Tinkerbelle is overall intuitive to use. Perhaps one small thing that could enhance user experience is by having a landing page popup to show instructions on its usage or contain example usage in github readme. Otherwise it is also slightly confusing concept for people unfamiliar with Tinkebelle character.
 
 Part D: Wizard the device
 
@@ -166,14 +167,17 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-I think Tinkerbelle is overall intuitive to use. Perhaps one small thing that could enhance user experience is by having a landing page popup to show instructions on its usage or contain example usage in github readme
+I think Tinkerbelle is overall intuitive to use. Perhaps one small thing that could enhance user experience is by having a landing page popup to show instructions on its usage or contain example usage in github readme. Sometimes I run into the issue where my phone/tablet cannot open Tinkerbell
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+In my first time attempting to set up I am not able to open Tinkerbell on my mobile as shown below
+https://www.youtube.com/watch?v=qDEzphH8zwk
+
+Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
 
