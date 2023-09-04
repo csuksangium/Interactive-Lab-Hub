@@ -32,9 +32,11 @@ Maintenance person at night when there is insufficient light source to do work
   - Husband, wife does not want to wake the sleeping child
   - Pets want to greet/investigate the stranger entering the apartment
 
-*#1: Night leak repair. There is a sleeping child, so the light will account for shade that will minimally affect sleepers*
+**#1: Night leak repair. There is a sleeping child, so the light will account for shade that will minimally affect sleepers**
 
 ![IMG_4E2444D5C532-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/5e2b321f-c073-42cc-9034-ac1b46d1379f)
+
+**#2: Day leak repair. There is a napping child, so the light will account for day shade as it does not require as much light**
 
 ![IMG_A4972CF803AC-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/1b3d3432-f709-4c0d-b63d-15571f265921)
 
