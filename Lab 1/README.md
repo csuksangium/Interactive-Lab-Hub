@@ -122,6 +122,10 @@ https://youtu.be/Z_kWon7fUxI
 
 Recording #2 - No one home
 
+https://youtu.be/3UTe3T_-N9k
+
+Recording #3 - Day time repair with pet
+
 
 
 # Staging Interaction, Part 2 
