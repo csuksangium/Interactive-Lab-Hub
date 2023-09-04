@@ -138,6 +138,9 @@ You will be assigned three partners from another group. Go to their github pages
 
 ## Part 2.E: Costume the device
 
+![IMG_550F32A7B4C9-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/6f4f8967-168e-4a5f-9d95-7a99449e5ef4)
+
+
 ## Part 2.F: Record the interaction
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
