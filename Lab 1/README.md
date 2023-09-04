@@ -65,6 +65,11 @@ I think Tinkerbelle is overall intuitive to use. Perhaps one small thing that co
 
 Part D: Wizard the device
 
+In my first time attempting to set up I am not able to open Tinkerbell on my mobile as shown below:
+
+https://www.youtube.com/watch?v=qDEzphH8zwk
+
+
 Part E: Costume the device
 
 Part F: Record the interaction
@@ -173,9 +178,6 @@ I think Tinkerbelle is overall intuitive to use. Perhaps one small thing that co
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
-
-In my first time attempting to set up I am not able to open Tinkerbell on my mobile as shown below
-https://www.youtube.com/watch?v=qDEzphH8zwk
 
 Now, change the goal within the same setting, and update the interaction with the paper prototype. 
 
