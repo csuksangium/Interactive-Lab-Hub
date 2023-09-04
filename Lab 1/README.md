@@ -213,6 +213,6 @@ https://youtu.be/bepUL2-T0xo
 
 ## Comments & Acknowledgement
 
-For this project, I wanted to explore more ideas, but I joined this class on 08/31 and had to complete the project solo in 5 days, so I went with some of the first ideas that popped into my head. I also discovered that attempting to film alone was NOT easy, so I went with 1st person perspective for the recording. However, I enjoyed the entire process regardless as I got to self explore the various processes of staging interaction, particularly how ideas and creativity evolved throughout the process.
+For this project, I wanted to explore more ideas, but I joined this class on 08/31 and had to complete the project solo in 5 days, so I went with some of the first ideas that popped into my head. I also discovered that attempting to film alone was NOT easy, so I went with 1st person perspective for the recording. However, I thoroughly enjoyed the entire process regardless as I got to self explore the various processes of staging interaction, particularly how ideas and creativity evolved throughout the process.
 
 I was also having internet issues, so I opted for an app as a light source similar to Tinkerbell for some of the videos.
