@@ -44,13 +44,19 @@ Maintenance person at night when there is insufficient light source to do work
 
 ![IMG_0041](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/5fdc2c39-c09c-429c-ad91-9484d4a000b6)
 
-**#3: Day fridge repair. No one is sleeping, but fridge has natural sun, so it will not light up to save battery**
+**#4: Day fridge repair. No one is sleeping, but fridge has natural sun, so it will not light up to save battery**
 
 ![IMG_0042](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/e75b7043-56d4-4cb2-a59e-caeea367c1d8)
 
+**#5: Day oven repair. Napping owl, so use gentle lighting**
+
 ![IMG_76E79D4EDE27-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/48e9b8c9-18dc-45a0-9e5c-45c9c0839a12)
 
+**#6: Day oven repair. No one is home, so the light will blast the maximum luminous efficacy to see dark inside of the oven**
+
 ![IMG_0045](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/c11c9c46-dde2-462c-b2a9-4a42d7b069a6)
+
+**#7: Day oven repair. Dog with young puppies, so the light will give warm gentle ambience to not distress the pets**
 
 ![IMG_0044](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/86754717-b2d0-404f-91ea-0631c2479616)
 
