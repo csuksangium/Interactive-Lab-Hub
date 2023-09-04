@@ -158,3 +158,5 @@ You will be assigned three partners from another group. Go to their github pages
 ## Part 2.F: Record the interaction
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+https://youtu.be/IEYNCN8_mls
