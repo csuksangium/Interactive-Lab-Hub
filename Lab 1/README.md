@@ -72,7 +72,7 @@ Maintenance person at night when there is insufficient light source to do work
 
 ![IMG_0044](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/86754717-b2d0-404f-91ea-0631c2479616)
 
-## Part B: Acting out the interaction
+## Part B: Act out the interaction
 
 **Are there things that seemed better on paper than acted out?**
 
@@ -82,7 +82,7 @@ Maintenance person at night when there is insufficient light source to do work
   
 - Light source should be detachable. For example in certain repair circumstances it may be better on wrist instead of on head.
 
-## Part C: Prototyping the device
+## Part C: Prototype the device
 
 **Give us feedback on Tinkerbelle.**
 
