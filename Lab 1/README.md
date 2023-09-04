@@ -116,6 +116,13 @@ The unique diamond-shaped lock will be able to handle very high force, and the t
 
 ## Part F: Record the interaction
 
+Recording #1 - Night leak & sleeping child scenario
+
+https://youtu.be/Z_kWon7fUxI
+
+Recording #2 - No one home
+
+
 
 # Staging Interaction, Part 2 
 
