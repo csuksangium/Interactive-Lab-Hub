@@ -139,11 +139,13 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
-Feedback 1:
-"I like the creativity in using props as actors in the video as Chanan is working solo on the project."
+-The creativity of the video in using props as actors is good in overcoming the obstacle of working solo
 
-Feedback 2:
-"The concept of the prototype is nice. However, the video may not be clear initially on my first watch through. The descriptive texts in the video helped clarified this, but I may not be able to follow on the device without the guidance."
+-The video may not be clear initially. The descriptive texts in the video is needed to help clarify the purpose of the device
+
+-The concept of the device is cute
+
+-It is unclear how the device determines what light to output. This can be expanded upon to help 3rd party understand
 
 Feedback 3:
 
