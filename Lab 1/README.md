@@ -130,6 +130,9 @@ You will be assigned three partners from another group. Go to their github pages
 
 ## Part 2.A: Plan
 
+![IMG_8DDB761E6674-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/b51ea7db-424f-49fd-9f0e-45be53df6cf1)
+
+
 ## Part 2.B: Act out the interaction
 
 ## Part 2.C: Prototype the device
