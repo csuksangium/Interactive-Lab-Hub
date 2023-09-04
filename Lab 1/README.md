@@ -145,6 +145,32 @@ You will be assigned three partners from another group. Go to their github pages
 
 ![IMG_8DDB761E6674-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/b51ea7db-424f-49fd-9f0e-45be53df6cf1)
 
+**#2: Wireless earbuds that light up when detects foreign language and translates**
+
+![IMG_0063](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/6b5defca-4390-4eb6-b2f2-07f4f392fedd)
+
+**#3: Smart candle that releases smell, plays music, and chooses lighting based on the time**
+
+![IMG_0064](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/a292a833-a83c-4643-a684-5f4b75446df7)
+
+
+**#4: Mouse that lights up red and vibrates when it detects the user is not working. Turns green when productive**
+
+![IMG_4DADBBB1950F-1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/56d8eb82-7437-4561-b6db-b3e097a8a99d)
+
+
+**#5: Shoes that light up based on how much you have walked that day**
+
+![IMG_0070](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/b2d54f0a-56db-41c5-8a68-cc593b13c4db)
+
+**#6: Speakers that changes color based on the music being played**
+
+![IMG_0071](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/915ae3ee-7c1a-4c8b-8499-6cb5b8f55788)
+
+**#7: Boxing glove that lights up corresponding color to quality of the punch**
+
+![IMG_0066](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/b2c720df-cde1-46d6-9ebe-6d4c875a6aef)
+
 ## Part 2.B: Act out the interaction
 
 **Are there things that seemed better on paper than acted out?**
