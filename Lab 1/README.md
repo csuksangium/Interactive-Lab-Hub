@@ -79,6 +79,7 @@ Part E: Costume the device
 The device itself is a light (#2), but it will come with 2 initial accessories to mount the light: hardhat and wristband
 The product will be waterproof, shatterproof, and strong. It should be able to handle high humidity and heat as well as cold to handle all different repair situations (ie. Freezer repair, oven repair, pipe repair)
 
+The unique diamond-shaped lock will be able to handle very high force, and the technology will be shared with partners to come up with other types of accessories the light would fit with.
 
 Part F: Record the interaction
 
