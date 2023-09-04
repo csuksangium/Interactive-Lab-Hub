@@ -139,6 +139,14 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 
+Feedback 1:
+"I like the creativity in using props as actors in the video as Chanan is working solo on the project."
+
+Feedback 2:
+"The concept of the prototype is nice. However, the video may not be clear initially on my first watch through. The descriptive texts in the video helped clarified this, but I may not be able to follow on the device without the guidance."
+
+Feedback 3:
+
 ## Part 2.A: Plan
 
 **#1: Night, dark repair. There is a sleeping child, so the light will account for shade that will minimally affect sleepers, lullaby will be played to drown out the repair noise, and smell of lavender will be diffused in the room**
