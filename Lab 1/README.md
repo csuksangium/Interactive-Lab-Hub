@@ -72,6 +72,14 @@ https://www.youtube.com/watch?v=qDEzphH8zwk
 
 Part E: Costume the device
 
+
+![IMG_0053](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/c9013249-be42-44c3-bc27-1ce60f761288)
+
+
+The device itself is a light (#2), but it will come with 2 initial accessories to mount the light: hardhat and wristband
+The product will be waterproof, shatterproof, and strong. It should be able to handle high humidity and heat as well as cold to handle all different repair situations (ie. Freezer repair, oven repair, pipe repair)
+
+
 Part F: Record the interaction
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
