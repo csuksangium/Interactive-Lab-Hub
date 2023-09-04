@@ -82,11 +82,19 @@ In my first time attempting to set up I am not able to open Tinkerbell on my mob
 
 https://www.youtube.com/watch?v=qDEzphH8zwk
 
+Follow-up:
+
+https://youtu.be/kDg6SRwNs7c
 
 Part E: Costume the device
 
 
 ![IMG_0053](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/c9013249-be42-44c3-bc27-1ce60f761288)
+
+
+Costume rough prototype: mounting light on a hat
+
+![IMG_0047](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/22726c9c-b887-42e1-ae24-3c522c1de7f9)
 
 
 The device itself is a light (#2), but it will come with 2 initial accessories to mount the light: hardhat and wristband
@@ -96,31 +104,7 @@ The unique diamond-shaped lock will be able to handle very high force, and the t
 
 Part F: Record the interaction
 
-In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
-There is no actor that plays Tinkerbell--her existence in the play comes from the interactions that the other characters have with her.
-
-For lab this week, we draw on this and other inspirations from theatre to stage interactions with a device where the main mode of display/output for the interactive device you are designing is lighting. You will plot the interaction with a storyboard, and use your computer and a smartphone to experiment with what the interactions will look and feel like. 
-
-_Make sure you read all the instructions and understand the whole of the laboratory activity before starting!_
-
-
-
-## Prep
-
-### To start the semester, you will need:
-1. Read about Git [here](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F).
-2. Set up your own Github "Lab Hub" repository to keep all you work in record by [following these instructions](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/readings/Submitting%20Labs.md).
-3. Set up the README.md for your Hub repository (for instance, so that it has your name and points to your own Lab 1) and [learn how to](https://guides.github.com/features/mastering-markdown/) organize and post links to your submissions on your README.md so we can find them easily.
-
-
-### For this lab, you will need:
-1. Paper
-2. Markers/ Pens
-3. Scissors
-4. Smart Phone -- The main required feature is that the phone needs to have a browser and display a webpage.
-5. Computer -- We will use your computer to host a webpage which also features controls.
-6. Found objects and materials -- You will have to costume your phone so that it looks like some other devices. These materials can include doll clothes, a paper lantern, a bottle, human clothes, a pillow case, etc. Be creative!
 
 ### Deliverables for this lab are: 
 1. 7 Storyboards
