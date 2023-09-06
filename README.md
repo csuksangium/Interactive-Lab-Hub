@@ -5,7 +5,7 @@ Please navigate to the relevant labs below:
 
 [Lab 1. Staging Interaction](Lab%201/)
 
-Lab 2. Interactive Prototyping: The Clock of Pi
+[Lab 2. Interactive Prototyping: The Clock of Pi](Lab%202/)
 
 Lab 3. Chatterboxes
 
