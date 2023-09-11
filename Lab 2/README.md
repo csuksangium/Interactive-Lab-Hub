@@ -67,7 +67,6 @@ F) [Make a short video of your modified barebones PiClock](#part-f)
 G) [Sketch and brainstorm further interactions and features you would like for your clock for Part 2.](#part-g)
 
 ## The Report
-This readme.md page in your own repository should be edited to include the work you have done. You can delete everything but the headers and the sections between the \*\*\***stars**\*\*\*. Write the answers to the questions under the starred sentences. Include any material that explains what you did in this lab hub folder, and link it in the readme.
 
 Labs are due on Mondays. Make sure this page is linked to on your main class hub page.
 
@@ -97,25 +96,6 @@ Following the steps listed [here](https://docs.github.com/en/github/authenticati
 
 ## Part B. 
 ### Try out the Command Line Clock
-Clone your own lab-hub repo for this assignment to your Pi and change the directory to Lab 2 folder (remember to replace the following command line with your own GitHub ID):
-
-```
-(venv) pi@raspberrypi:~$ git clone https://github.com/<YOURGITID>/Interactive-Lab-Hub.git
-(venv) pi@raspberrypi:~$ cd Interactive-Lab-Hub/Lab\ 2/
-```
-Depends on the setting, you might be asked to provide your GitHub user name and password. Remember to use the "Personal Access Tokens" you just set up as the password instead of your account one!
-
-
-Install the packages from the requirements.txt and run the example script `cli_clock.py`:
-
-```
-(venv) pi@raspberrypi:~/Interactive-Lab-Hub/Lab 2 $ pip install -r requirements.txt
-(venv) pi@raspberrypi:~/Interactive-Lab-Hub/Lab 2 $ python cli_clock.py 
-02/24/2021 11:20:49
-```
-
-The terminal should show the time, you can press `ctrl-c` to exit the script.
-If you are unfamiliar with the Python code in `cli_clock.py`, have a look at [this Python refresher](https://hackernoon.com/intermediate-python-refresher-tutorial-project-ideas-and-tips-i28s320p). If you are still concerned, please reach out to the teaching staff!
 
 
 ## Part C. 
@@ -165,7 +145,6 @@ You can look in `screen_boot_script.py` and `stats.py` for how to display text o
 You can look in `image.py` for an example of how to display an image on the screen. Can you make it switch to another image when you push one of the buttons?
 
 
-
 ## Part D. 
 ### Set up the Display Clock Demo
 Work on `screen_clock.py`, try to show the time by filling in the while loop (at the bottom of the script where we noted "TODO" for you). You can use the code in `cli_clock.py` and `stats.py` to figure this out.
@@ -186,6 +165,13 @@ Can you make time interactive? You can look in `screen_test.py` for examples for
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
 
+**We strongly discourage and will reject the results of literal digital or analog clock display.**
+
+
+\*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
+
+After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
+
 ![IMG_0073](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/38afcf30-c4fd-4acc-92c9-251d677cb43b)
 
 ![IMG_0074](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/9fa5e7c1-9602-4b01-af90-f3492280731e)
@@ -193,12 +179,29 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
 
-\*\*\***Take a video of your PiClock.**\*\*\*
-
 https://youtu.be/2V-lIRRmTBA
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+
+Add more useful modes to the PiClock that can be cycled through:
+As most people today tell time thru a smartphone, we have unironically come full circle, and replaced pocket watches with smartphones.
+
+I wish to explore different ways to tell time that is superior to a locked smartphone.
+
+Given my passion in traditional watch making, I want to explore 'watch complications' in traditional horology, digitally. Programming these features will help me understand complication logic at a higher level. My constraints will be the screen size & 2 buttons
+
+I also enjoy the idea that traditional wristwatches can sometimes 
+
+![IMG_0075](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/27e20ae9-bc08-4ea4-aff3-fa6129638496)
+
+![IMG_0076](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/173f2b33-e675-4341-87cd-d286b871518c)
+
+![IMG_0077](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/eb70d024-d555-48ab-8731-7438badda475)
+
+![IMG_0078](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/49169711-b0d3-444d-8b23-689187bb2658)
+
+![IMG_0079](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/49754171-e053-491f-ae46-a42d5f713ae4)
 
 
 # Prep for Part 2
