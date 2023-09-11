@@ -191,8 +191,6 @@ I wish to explore different ways to tell time that is superior to a locked smart
 
 Given my passion in traditional watch making, I want to explore 'watch complications' in traditional horology, digitally. Programming these features will help me understand complication logic at a higher level. My constraints will be the screen size & 2 buttons
 
-I also enjoy the idea that traditional wristwatches can sometimes 
-
 ![IMG_0075](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/27e20ae9-bc08-4ea4-aff3-fa6129638496)
 
 ![IMG_0076](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/173f2b33-e675-4341-87cd-d286b871518c)
