@@ -1,5 +1,4 @@
 # Interactive Prototyping: The Clock of Pi
-**NAMES OF COLLABORATORS HERE**
 
 Does it feel like time is moving strangely during this semester?
 
@@ -171,25 +170,12 @@ You can look in `image.py` for an example of how to display an image on the scre
 ### Set up the Display Clock Demo
 Work on `screen_clock.py`, try to show the time by filling in the while loop (at the bottom of the script where we noted "TODO" for you). You can use the code in `cli_clock.py` and `stats.py` to figure this out.
 
-### How to Edit Scripts on Pi
-Option 1. One of the ways for you to edit scripts on Pi through terminal is using [`nano`](https://linuxize.com/post/how-to-use-nano-text-editor/) command. You can go into the `screen_clock.py` by typing the follow command line:
-```
-(venv) pi@raspberrypi:~/Interactive-Lab-Hub/Lab 2 $ nano screen_clock.py
-```
-You can make changes to the script this way, remember to save the changes by pressing `ctrl-o` and press enter again. You can press `ctrl-x` to exit the nano mode. There are more options listed down in the terminal you can use in nano.
 
-Option 2. Another way for you to edit scripts is to use VNC on your laptop to remotely connect your Pi. Try to open the files directly like what you will do with your laptop and edit them. Since the default OS we have for you does not come up a python programmer, you will have to install one yourself otherwise you will have to edit the codes with text editor. [Thonny IDE](https://thonny.org/) is a good option for you to install, try run the following command lines in your Pi's ternimal:
+<img width="488" alt="Screen Shot 2566-09-11 at 16 56 28" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/74dbc128-b595-49ac-adc9-c87d7b8e87d0">
 
-  ```
-  pi@raspberrypi:~ $ sudo apt install thonny
-  pi@raspberrypi:~ $ sudo apt update && sudo apt upgrade -y
-  ```
+Video:
 
-Now you should be able to edit python scripts with Thonny on your Pi.
-
-Option 3. A nowadays often preferred method is to use Microsoft [VS code to remote connect to the Pi](https://www.raspberrypi.com/news/coding-on-raspberry-pi-remotely-with-visual-studio-code/). This gives you access to a fullly equipped and responsive code editor with terminal and file browser.  
-
-Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/latest) you can even setup a VS Code coding environment hosted on your raspberry pi and code through a web browser on your tablet or smartphone! 
+https://youtu.be/2Vp6JvBzGiA
 
 ## Part E.
 ### Modify the barebones clock to make it your own
@@ -200,26 +186,16 @@ Can you make time interactive? You can look in `screen_test.py` for examples for
 
 Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www.billverplank.com/IxDSketchBook.pdf)!
 
-**We strongly discourage and will reject the results of literal digital or analog clock display.**
+![IMG_0073](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/38afcf30-c4fd-4acc-92c9-251d677cb43b)
 
-
-\*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
-
-After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
-
-```
-(venv) pi@raspberrypi:~/Interactive-Lab-Hub/Lab 2 $ git add .
-(venv) pi@raspberrypi:~/Interactive-Lab-Hub/Lab 2 $ git commit -m 'your commit message here'
-(venv) pi@raspberrypi:~/Interactive-Lab-Hub/Lab 2 $ git push
-```
-
-After that, Git will ask you to login to your GitHub account to push the updates online, you will be asked to provide your GitHub user name and password. Remember to use the "Personal Access Tokens" you set up in Part A as the password instead of your account one! Go on your GitHub repo with your laptop, you should be able to see the updated files from your Pi!
-
+![IMG_0074](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/9fa5e7c1-9602-4b01-af90-f3492280731e)
 
 ## Part F. 
 ## Make a short video of your modified barebones PiClock
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+
+https://youtu.be/2V-lIRRmTBA
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
