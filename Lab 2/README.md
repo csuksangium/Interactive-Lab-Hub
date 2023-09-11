@@ -191,13 +191,23 @@ I wish to explore different ways to tell time that is superior to a locked smart
 
 Given my passion in traditional watch making, I want to explore 'watch complications' in traditional horology, digitally. Programming these features will help me understand complication logic at a higher level. My constraints will be the screen size & 2 buttons
 
+Mode 1: Stop watch - start, stop, reset with buttons
+
 ![IMG_0075](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/27e20ae9-bc08-4ea4-aff3-fa6129638496)
+
+Mode 2: Travel Time - Use buttons to advance/previous the hour to display dual timezone when traveling
 
 ![IMG_0076](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/173f2b33-e675-4341-87cd-d286b871518c)
 
+Mode 3: Double split - Stop watch but develop a way to split and begin timing on the second clock (need 3 button for this)
+
 ![IMG_0077](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/eb70d024-d555-48ab-8731-7438badda475)
 
+Mode 4: set alarm that chimes at desired time
+
 ![IMG_0078](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/49169711-b0d3-444d-8b23-689187bb2658)
+
+Mode 5: Minute repeater - this complication was developed a long time ago pre electicity to allow chimes to tell the time in the dark. I plan to develop a similar feature to check time in the dark/at night to avoid dilating pupils with blue light
 
 ![IMG_0079](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/49754171-e053-491f-ae46-a42d5f713ae4)
 
