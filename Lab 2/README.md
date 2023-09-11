@@ -11,33 +11,6 @@ Be generous in acknowledging their contributions! And also recognizing any other
 
 ## Prep
 
-Lab Prep is extra long this week. Make sure to start this early for lab on Thursday.
-
-1. ### Set up your Lab 2 Github
-
-Before the start of lab Thursday, [pull changes from the Interactive Lab Hub](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2021Fall/readings/Submitting%20Labs.md#to-pull-lab-updates) so that you have your own copy of Lab 2 on your own lab hub.
-
-
-  If you are organizing your Lab Hub through folder in local machine, go to terminal, cd into your Interactive-Lab-Hub folder and run:
-
-  ```
-  Interactive-Lab-Hub $ git remote add upstream https://github.com/FAR-Lab/Interactive-Lab-Hub.git
-  Interactive-Lab-Hub $ git pull upstream Fall2023
-  ```
-  
-  The reason why we are adding a upstream with **course lab-hub** instead of yours is because the local Interactive-Lab-Hub folder is linked with your own git repo already. Try typing ``git remote -v`` and you should see there is the origin branch with your own git repo. We here add the upstream to get latest updates from the teaching team by pulling the **course lab-hub** to your local machine. After your local folder got the latest updates, push them to your remote git repo by running:
-  
-  ```
-  Interactive-Lab-Hub $ git add .
-  Interactive-Lab-Hub $ git commit -m "message"
-  Interactive-Lab-Hub $ git push
-  ```
-  Your local and remote should now be up to date with the most recent files.
-
-The new GitHub.com UI makes this step easy from the webbrowser:
-![image](https://github.com/FAR-Lab/Interactive-Lab-Hub/assets/90477986/91d0fbc8-2eba-401f-a5a7-66640910cb62)
-
-
 2. ### Get Kit and Inventory Parts
 Prior to the lab session on Thursday, taken inventory of the kit parts that you have, and note anything that is missing:
 
