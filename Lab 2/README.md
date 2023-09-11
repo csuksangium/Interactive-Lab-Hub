@@ -162,7 +162,7 @@ As most people today tell time thru a smartphone, we have unironically come full
 
 I wish to explore different ways to tell time that is superior to a locked smartphone.
 
-Given my passion in traditional watch making, I want to explore 'watch complications' in traditional horology, digitally. Programming these features will help me understand complication logic at a higher level. My constraints will be the screen size & 2 buttons
+Given my passion in traditional watch making, & in theme of timekeeping devices of old, I want to explore 'watch complications' in traditional horology, digitally. Programming these features will help me understand complication logic at a higher level. My constraints will be the screen size & 2 buttons
 
 Mode 1: Stop watch - start, stop, reset with buttons
 
