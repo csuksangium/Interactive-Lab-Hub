@@ -82,19 +82,46 @@ def looping_list(index):
     return food_choices[index % len(food_choices)]
 
 
-def display_image_horizontal_center(image_to_open):
-    center_size = 110
-    center_image = Image.open(image_to_open)
-    center_image = center_image.resize((center_size, center_size), Image.BICUBIC)
-    center_image = center_image.rotate(90, Image.NEAREST, expand=True)
+def display_image_horizontal_center(image_to_open, image2, bg_color="#FFFFFF"):
+    img_size = 100
+    image_to_display = Image.open(image_to_open)
+    image_to_display = image_to_display.resize((img_size, img_size), Image.BICUBIC)
+    image_to_display = image_to_display.rotate(90, Image.NEAREST, expand=True)
 
-    x_center = width // 2 - center_image.width // 2
-    y_center = height // 2 - center_image.height // 2
+    offset = 30
+    x_center = width // 2 - image_to_display.width // 2
+    y_center = height // 2 - image_to_display.height // 2 + offset
 
-    draw.rectangle((0, 0, width, height), outline=0, fill="#FFFFFF")
-    # paste the center image (sun/moon) onto the background
-    image.paste(center_image, (x_center + 10, y_center), mask=center_image)
+    draw.rectangle((0, 0, width, height), outline=0, fill=bg_color)
+    image.paste(image_to_display, (x_center, y_center + 30), mask=image_to_display)
+
+    px, py = 10, 10
+    sx, sy = image2.size
+    image.paste(image2, (px, py, px + sx, py + sy), image2)
+
     disp.image(image)
+
+
+def display_info(curr_mode, food_choice=None) -> Image:
+    pre_text = ''
+    text = ''
+    if curr_mode == 'SELECT':
+        cooking_time = cooking_times_in_seconds[food_choice]
+        pre_text = 'Please select food to cook'
+        text = str(cooking_time) + ' seconds'
+    elif curr_mode == 'COOKING':
+        text = 'Food is cooking'
+    elif curr_mode == 'DONE':
+        pre_text = 'DONE COOKING!'
+        text = 'Any button to exit'
+
+    image2 = Image.new('RGBA', (width, height), (0, 0, 0, 0))
+    draw2 = ImageDraw.Draw(image2)
+    draw2.text((0, 80), text=pre_text, font=font, fill="#000000")
+    draw2.text((0, 100), text=text, font=font, fill="#000000")
+    image2 = image2.rotate(90, expand=1)
+    return image2
+
 
 def draw_image_to_cook():
     curr_index = 0
@@ -109,11 +136,9 @@ def draw_image_to_cook():
             curr_index += 1
             image_to_open = looping_list(curr_index)
         elif not buttonB.value and not buttonA.value:
-            draw.rectangle((0, 0, width, height), outline=0, fill='#000000')
-            disp.image(image)
             return image_to_open
-
-        display_image_horizontal_center(image_to_open)
+        img2 = display_info(curr_mode='SELECT', food_choice=image_to_open)
+        display_image_horizontal_center(image_to_open, image2=img2)
         time.sleep(0.1)
 
 
@@ -121,89 +146,50 @@ def draw_image_while_cooking(food_choice):
     food_choice_dict = {'egg_choice.png': 'boiling_food.png',
                         'noodle_ready.png': 'noodle_cooking.png',
                         'pasta_choice.png': 'pasta_cooking.png'}
+
+    cooking_time = cooking_times_in_seconds[food_choice]
     food_cooking = food_choice_dict[food_choice]
 
-    string_msg = "{}".format("food_cooking")
-    y = top
-    draw.text((20, 30), string_msg, font=font, fill="#7FFF00")
-    disp.image(image, 90)
-    center_size = 110
-    while(True):
+    # Draw a black filled box to clear the image.
+    draw.rectangle((0, 0, width, height), outline=0, fill=(0, 0, 0))
+    disp.image(image)
+    # Draw some shapes.
+    timeout = cooking_time
+    timeout_start = time.time()
+    pre_text = 'Cooking...'
+    while time.time() < timeout_start + timeout:
+        time_to_display = time.time() - timeout_start
+        to_display = str(round(time_to_display, 2)) + ' / ' + str(cooking_time)
 
-        # draw.rectangle((0, 0, width, height), outline=0, fill="#000000")
+        image2 = Image.new('RGBA', (width, height), (0, 0, 0, 0))
+        draw2 = ImageDraw.Draw(image2)
+        draw2.text((0, 80), text=pre_text, font=font, fill="#000000")
+        draw2.text((40, 100), text=str(to_display), font=font, fill="#000000")
+        image2 = image2.rotate(90, expand=1)
 
-
-
-        # image_to_open = looping_list(curr_index)
-        # if buttonA.value and not buttonB.value:
-        #     curr_index -= 1
-        #     image_to_open = looping_list(curr_index)
-        # elif buttonB.value and not buttonA.value:
-        #     curr_index += 1
-        #     image_to_open = looping_list(curr_index)
-        # elif not buttonB.value and not buttonA.value:
-        #     print("BREAK")
-        #     draw.rectangle((0, 0, width, height), outline=0, fill=400)
-        #     disp.image(image)
-        #     break
-        #
-        # center_image = Image.open(image_to_open)
-        # center_image = center_image.resize((center_size, center_size), Image.BICUBIC)
-        # center_image = center_image.rotate(90, Image.NEAREST, expand=True)
-        #
-        # x_center = width // 2 - center_image.width // 2
-        # y_center = height // 2 - center_image.height // 2
-        #
-        # # make sure the sky color is in line with the time of day
-        # draw.rectangle((0, 0, width, height), outline=0, fill="#FFFFFF")
-        # # paste the center image (sun/moon) onto the background
-        # image.paste(center_image, (x_center + 10, y_center), mask=center_image)
-        # disp.image(image)
+        display_image_horizontal_center(food_cooking, image2=image2)
         time.sleep(0.2)
 
-food_choice = draw_image_to_cook()
-draw_image_while_cooking(food_choice)
+
+def draw_image_done(food_choice):
+    food_done_dict = {'egg_choice.png': 'egg_done.png',
+                      'noodle_ready.png': 'noodle_done.png',
+                      'pasta_choice.png': 'pasta_ready.png'}
+    food_done = food_done_dict[food_choice]
+
+    img2 = display_info(curr_mode='DONE')
+    display_image_horizontal_center(food_done, image2=img2)
+
+    while(True):
+        # exit with
+        if buttonA.value and not buttonB.value:
+            return
+        elif buttonB.value and not buttonA.value:
+            return
+        time.sleep(0.1)
+
+
 while True:
-    y = top
-    CURR_TIME = time.strftime("%m/%d/%Y %H:%M:%S")
-    draw.text((x, y), CURR_TIME, font=font, fill="#FFFFFF")
-
-    # if buttonA.value and not buttonB.value and start_time == 0:
-    #   print("BUTTONA")
-    #   start_time = time.time()
-    #   is_time_keeping = True
-    # elif buttonA.value and not buttonB.value and start_time != 0:
-    #   if is_time_keeping:
-    #     print("BUTTONAPAUSE")
-    #     is_time_keeping = False
-    #     pause_time = time.time()
-    #   else:
-    #     print("BTTNARESUME")
-    #     is_time_keeping = True
-    #     pause_time_dur = time.time() - pause_time
-    #     start_time = start_time + pause_time_dur
-    #     pause_time = 0
-    #     pause_time_dur = 0
-    # if buttonB.value and not buttonA.value and not is_time_keeping:
-    #   start_time = 0
-    #   pause_time = 0
-    #   is_time_keeping = False
-    # print(is_time_keeping)
-    # time_to_display = 0
-    # if is_time_keeping and start_time != 0:
-    #   print("starttimekeep")
-    #   time_to_display = time.time() - start_time
-    # elif not is_time_keeping and start_time == 0:
-    #   print("not start")
-    #   time_to_display = 0
-    # elif not is_time_keeping and start_time != 0:
-    #   print("pause")
-    #   time_to_display = pause_time - start_time
-    #
-    # y += 30
-    # draw.text((x, y), str(time_to_display), font=font, fill="#FFFF00")
-    #
-    # # Display image.
-    # disp.image(image, rotation)
-    time.sleep(1)
-
+    food_choice = draw_image_to_cook()
+    draw_image_while_cooking(food_choice)
+    draw_image_done(food_choice)
