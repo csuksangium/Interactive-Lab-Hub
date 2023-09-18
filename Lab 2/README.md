@@ -198,9 +198,11 @@ Mode 5: Minute repeater - this complication was developed a long time ago pre el
 
 # Lab 2 Part 2
 
-Pull Interactive Lab Hub updates to your repo.
+Food boiling timer
 
-Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
+Code:
+
+boiler_timer.py
 
 Video:
 
@@ -208,5 +210,5 @@ https://www.youtube.com/watch?v=_MNgzBi6DzM
 
 Reflection:
 
-After filming final video, I found that using white background for Pi screen to be quite difficult to film and capture with an iPhone, so in the future labs I will keep that in mind.
+After filming final video, I found that using white background for Pi screen to be quite difficult to film and capture with an iPhone, so in the future labs I will keep that in mind, but I am glad I received the feedback in class as branching out to something more creative posed a differnt kind of challenge that I enjoyed trying out (specifically dealing with images, rotation, spacing, overlaying, etc.)
 
