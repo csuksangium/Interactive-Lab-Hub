@@ -200,6 +200,20 @@ Mode 5: Minute repeater - this complication was developed a long time ago pre el
 
 Food boiling timer
 
+New concept sketches:
+
+### Initial menu
+
+![IMG_0088](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/e3ee7400-42ad-454d-ada5-1bdd3d3aefb0)
+
+### Cooking interface
+
+![IMG_0089](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/6e2a5c27-c0fd-4375-8ba3-15a02076d72a)
+
+### Indicate done
+
+![IMG_0090](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/faee0a2a-f395-46ff-862e-208c6c1cb00a)
+
 Code:
 
 boiler_timer.py
