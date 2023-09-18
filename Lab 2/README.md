@@ -192,14 +192,21 @@ Mode 5: Minute repeater - this complication was developed a long time ago pre el
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
+   From the feedbacks I received in class for my initial PiClock concept in Part 1, my classmates praised my logic in the stopwatch, but conversely found the display to be too basic, so for part 2 I needed to do something more creative than a basic display while preserving stopwatch/timing mechanic.
+
+   Therefore I decided to pursue a food timer specifically for timing boiling with a focus on using images to familiarize myself with Pi display.
+
 # Lab 2 Part 2
 
 Pull Interactive Lab Hub updates to your repo.
 
 Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
 
-As always, make sure you document contributions and ideas from others explicitly in your writeup.
+Video:
 
-You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
+https://www.youtube.com/watch?v=_MNgzBi6DzM
 
+Reflection:
+
+After filming final video, I found that using white background for Pi screen to be quite difficult to film and capture with an iPhone, so in the future labs I will keep that in mind.
 
