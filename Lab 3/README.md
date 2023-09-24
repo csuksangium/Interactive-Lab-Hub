@@ -135,7 +135,11 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
+#### Idea 1: Cook's Assistant
+
 ![IMG_0091](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/ea7c9fbc-3c1d-47c3-b3bd-e376dc11b1b1)
+
+#### Idea 2: Study Buddy
 
 ![IMG_0092](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/1424ec23-3cfb-4b12-b175-f3046a041c0a)
 
