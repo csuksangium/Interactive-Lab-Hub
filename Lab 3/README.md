@@ -177,9 +177,9 @@ User: “I would like to begin studying”     Device: “When would you like to
 
 User: “Every 30 minutes”                   Device: “You may begin studying”
 
-Sample Interaction #2 (Study Hall)
+Sample Interaction #2 (Focus Monitor)
 
-
+*Netflix opening theme*                    Device: “I am hearing noises in the background. Are you staying focused?”
 
 ### Acting out the dialogue
 
