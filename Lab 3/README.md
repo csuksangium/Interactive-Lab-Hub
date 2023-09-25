@@ -147,17 +147,6 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 \*\***Please describe and document your process.**\*\*
 
-### Acting out the dialogue
-
-Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
-
-\*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
-
-### Wizarding with the Pi (optional)
-In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
-
-\*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
-
 2 of my ideas came from what I found would improve my quality of life at Cornell Tech
 
 #### 1: Cook's Assistant
@@ -175,6 +164,33 @@ Sample Interaction #2 (Managing Groceries List)
 
 <img width="790" alt="Screen Shot 2566-09-24 at 22 27 10" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/e156a37e-7e61-44a9-b693-df03ee2a32d4">
 
+#### 2: Study Buddy
+I find that I tend to lost focus every now and then when studying alone. The purpose of study buddy is for a monitor to help study, stay focused, and remind you in case it hears distracting content during focus time.
+
+Sample Interaction #1 (Study Hall)
+
+User: “What do I have to study today”      Device: “You have Machine Learning and Data science homework”
+
+User: “I would like to begin studying”     Device: “How long would you like to study for?”
+
+User: “I would like to begin studying”     Device: “When would you like to take breaks”
+
+User: “Every 30 minutes”                   Device: “You may begin studying”
+
+Sample Interaction #2 (Study Hall)
+
+
+
+### Acting out the dialogue
+
+Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
+
+\*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+### Wizarding with the Pi (optional)
+In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
+
+\*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
 
 # Lab 3 Part 2
 
