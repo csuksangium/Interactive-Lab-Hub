@@ -1,5 +1,5 @@
 # Chatterboxes
-**NAMES OF COLLABORATORS HERE**
+
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
@@ -110,7 +110,7 @@ python test_microphone.py -m en
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
 
-```
+
 ### Serving Pages
 
 In Lab 1, we served a webpage with flask. In this lab, you may find it useful to serve a webpage for the controller on a remote device. Here is a simple example of a webserver.
@@ -135,9 +135,51 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
+#### Idea 1: Cook's Assistant
+
+![IMG_0091](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/ea7c9fbc-3c1d-47c3-b3bd-e376dc11b1b1)
+
+#### Idea 2: Study Buddy
+
+![IMG_0092](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/1424ec23-3cfb-4b12-b175-f3046a041c0a)
+
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+
+2 of my ideas came from what I found would improve my quality of life at Cornell Tech
+
+#### 1: Cook's Assistant
+As someone living alone, I find that there is a pain point when cooking alone as my hands would be messy and I need to look at the next instructions. By having Cook's Assistant, I can ask for next steps without getting my hands on my phone & I will be able to pay attention to the cooking without running back and forth.
+
+Sample Interaction #1 (Cooking assistant)
+
+<img width="949" alt="Screen Shot 2566-09-24 at 22 25 45" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/a349fd80-e84d-48d2-a5f0-e99beb97b434">
+
+<img width="1086" alt="Screen Shot 2566-09-24 at 22 26 14" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/ac9ec9e1-b68b-4168-bc25-04a17f46ba4f">
+
+<img width="1353" alt="Screen Shot 2566-09-24 at 22 26 44" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/fa5518e2-5537-4971-9ca5-bad310c68d84">
+
+Sample Interaction #2 (Managing Groceries List)
+
+<img width="790" alt="Screen Shot 2566-09-24 at 22 27 10" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/e156a37e-7e61-44a9-b693-df03ee2a32d4">
+
+#### 2: Study Buddy
+I find that I tend to lost focus every now and then when studying alone. The purpose of study buddy is for a monitor to help study, stay focused, and remind you in case it hears distracting content during focus time.
+
+Sample Interaction #1 (Study Hall)
+
+User: “What do I have to study today”      Device: “You have Machine Learning and Data science homework”
+
+User: “I would like to begin studying”     Device: “How long would you like to study for?”
+
+User: “I would like to begin studying”     Device: “When would you like to take breaks”
+
+User: “Every 30 minutes”                   Device: “You may begin studying”
+
+Sample Interaction #2 (Focus Monitor)
+
+*Netflix opening theme*                    Device: “I am hearing noises in the background. Are you staying focused?”
 
 ### Acting out the dialogue
 
