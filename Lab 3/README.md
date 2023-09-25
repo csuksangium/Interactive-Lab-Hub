@@ -158,6 +158,24 @@ In the [demo directory](./demo), you will find an example Wizard of Oz project. 
 
 \*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
 
+2 of my ideas came from what I found would improve my quality of life at Cornell Tech
+
+#### 1: Cook's Assistant
+As someone living alone, I find that there is a pain point when cooking alone as my hands would be messy and I need to look at the next instructions. By having Cook's Assistant, I can ask for next steps without getting my hands on my phone & I will be able to pay attention to the cooking without running back and forth.
+
+Sample Interaction #1 (Cooking assistant)
+
+<img width="949" alt="Screen Shot 2566-09-24 at 22 25 45" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/a349fd80-e84d-48d2-a5f0-e99beb97b434">
+
+<img width="1086" alt="Screen Shot 2566-09-24 at 22 26 14" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/ac9ec9e1-b68b-4168-bc25-04a17f46ba4f">
+
+<img width="1353" alt="Screen Shot 2566-09-24 at 22 26 44" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/fa5518e2-5537-4971-9ca5-bad310c68d84">
+
+Sample Interaction #2 (Managing Groceries List)
+
+<img width="790" alt="Screen Shot 2566-09-24 at 22 27 10" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/e156a37e-7e61-44a9-b693-df03ee2a32d4">
+
+
 # Lab 3 Part 2
 
 For Part 2, you will redesign the interaction with the speech-enabled device using the data collected, as well as feedback from part 1.
