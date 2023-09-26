@@ -194,6 +194,10 @@ https://youtu.be/e19DjV-7Z9A
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
+The dialogue was different than what I imagined because I only thought about the product for my use case, but I did not take into consideration of how others may approach cooking. For example, when I cook, I am quite specific in the way that I would know what pasta I would cook (ie. Carbonara, Pesto, etc.). However, in the dialogue, my partner asked for 'pasta', which was a case I did not think about, so I needed to improvise. 
+
+I think perhaps my prototype use case is too open-ended to scale to other users as the device will be rather hard-coded and not a Machine Learning IoT device quite yet, so in Lab 3 part II I may reconsider working on a concept that has less possibilities of open-ended conversations & something more streamlined.
+
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
 
