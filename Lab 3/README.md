@@ -110,6 +110,9 @@ python test_microphone.py -m en
 
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
 
+#### Video of Shell Script
+
+https://youtube.com/shorts/_woj7_FWhx0
 
 ### Serving Pages
 
@@ -184,6 +187,10 @@ Sample Interaction #2 (Focus Monitor)
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
+
+#### Video of dialogue:
+
+https://youtu.be/e19DjV-7Z9A
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
