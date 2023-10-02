@@ -211,11 +211,11 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
 
-  In my previous design (Cook's Assistant), I found the concept to be too open-ended for a hard-coded project (since I am not using ML). Therefore, I am shifting to pursue my second idea (Study Buddy) for Lab 3 Part II. I will explore various voices and find a more user friendly voice and have to ensure the anticipation of misunderstandings for a better MVP.
+  In my previous design (Cook's Assistant), I found the concept to be too open-ended for a hard-coded project (since I am not using ML). Therefore, I am shifting to pursue a new idea (Snooze Buddy) for Lab 3 Part II. Since the Lab is voice focus, I wanted to explore an idea where voice is the best source of input, so I will make an alarm clock that asks for how long I wish to sleep for with snooze features. I find that this is superior to iphone since sleep schedule can vary and you won't have to change alarm time every night, just tell Snooze Buddy 'I want to sleep for 8 hours'. When it comes to snooze, you also can snooze without looking or reaching for the phone, just use your voice without disrupting your sleep. I also need to be careful in anticipating misunderstandings of users
   
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
 
-  As Study Buddy intends to help users stay focused on their tasks, I intend to use noise/sound recognition & camera (if possible) to detect if user is focused during study periods. A physical input may also be useful to help interact with the device with good feedback.
+  As Snooze Buddy intends to help users stay focused on their tasks, I intend to use noise/sound recognition & camera + light (if possible) to wake the user up accordingly, but I will try to solely use voice as interaction input to focus on prototyping project around Lab 3 theme.
 
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
