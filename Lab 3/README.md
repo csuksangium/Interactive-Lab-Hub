@@ -219,6 +219,10 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
+
+![IMG_0095](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/85cdf253-4a9a-4aef-9a31-092c5b375bc6)
+
+
 ## Prototype your system
 
 The system should:
@@ -227,6 +231,11 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+
+- The Snooze buddy will ask the user how long they would like to sleep for (this will ensure user gets same amount of hours every day rather than wake up time & it will also work conveniently for naps)
+- The Snooze buddy will take in user voice as input, attempt to parse number (in words to integer) and calculate wake up time
+- The Snooze buddy will sound the alarm and wake the user up, but the user will have the option to snooze via voice
+- The snooze will continue until the user wakes up and turns the alarm off
 
 *Include videos or screencaptures of both the system and the controller.*
 
