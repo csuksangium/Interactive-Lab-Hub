@@ -233,30 +233,47 @@ The system should:
 *Document how the system works*
 
 - The Snooze buddy will ask the user how long they would like to sleep for (this will ensure user gets same amount of hours every day rather than wake up time & it will also work conveniently for naps)
-- The Snooze buddy will take in user voice as input, attempt to parse number (in words to integer) and calculate wake up time
+- The Snooze buddy will take in user voice as input, attempt to parse number (in words to integer via NLP library) and calculate the timedelta for the wake up time
 - The Snooze buddy will sound the alarm and wake the user up, but the user will have the option to snooze via voice
 - The snooze will continue until the user wakes up and turns the alarm off
 
 *Include videos or screencaptures of both the system and the controller.*
 
+*Video*
+
+https://youtu.be/ToEv3grAvw0
+
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
+
+Participants: Mitch & Neo
 
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+What worked well?
+- The time conversion and snooze feature worked well in an unlimited loop without hard coding
+- The prototype of the device behaved as expected during trial
+
+What did not work well?
+- The test with people was not conducted during actual sleep, so it was difficult to attempt to see the real use case
+- The system did not have a built-in functionality to exit the program by voice, only through wizarding the controller at the moment
+
 
 ### What worked well about the controller and what didn't?
+What worked well about the controller?
+- The controller quite flawlessly parsed both user inputs without any issues
+  
+What did not work well about the controller?
+- The controller needed time after speaking to be able to begin parsing input of the user, which lessened the immersion as I needed to instruct when the users could speak
 
-\*\**your answer here*\*\*
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
-
+- The system would be better if I could automate when the voice recording will begin and stop based on the user. For example, the device should be able to detect when user speaks and begins recording & stops recording automatically when users are done giving instructions without the need to wizard the terminal.
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
+- The system could create a dataset of sleep patterns and determine user sleep pattern & behavior over multiple timeframes, like assessing if voice-based alarm leads to better sleep, affects of snoozing on sleep, best sleeping hours that do not lead to snoozing, etc.
+- A camera/light sensing modality may make sense in this case to enhance the dimensionality of data by having information about light & its affect on sleeping and waking up.
 
