@@ -239,6 +239,8 @@ The system should:
 
 *Include videos or screencaptures of both the system and the controller.*
 
+(implementation code is in speech-scripts/snooze_buddy.py)
+
 *Video*
 
 https://youtu.be/ToEv3grAvw0
