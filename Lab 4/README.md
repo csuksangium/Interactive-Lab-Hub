@@ -180,23 +180,35 @@ Usually, sensors need to be positioned in specific locations or orientations to 
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
+For Lab 3, the initial idea I intend to explore a prototype of camera that is activated by proximity sensor, which will stream the footage wirelessly to a laptop. Below are 5 sketches of different iterations of the prototype I intend to create.
+
 #### Sketch 1
+
+Sketch 1 is the first iteration that came into my mind, which is inspired by smart home camera as an IoT device. For versatility, I opted to have an OLED screen in case information should be displayed such as 'Recording'. However, if this product is mounted to the door, then there is no need for the Pi to be mounted directly on the cardboard, so this design did not include Pi, which will be connected via wires.
 
 ![IMG_0096](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/c50dbe5a-ca9d-4a35-bc8a-691694df983b)
 
 #### Sketch 2
 
+Sketch 2 is similar to sketch 1 as the prototype will contain a camera, screen, and proximity sensor. However, the Pi will be mounted on the back. The idea behind this concept is a home-use camera, which is why I designed for the legs/stands & the camera is mounted vertically to increase view angle. A use case I had in mind when sketching this idea is a camera by the pet feeder that activates to show that your pet is feeding.
+
 ![IMG_0097](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/5c5dc2a5-fa8f-4704-9e23-0126d822dc9a)
 
 #### Sketch 3
+
+Sketch 3 is a compact version of sketch 1 where the cardboard enclosing the camera and proximity will be as small as possible. This will also mean that the Pi will not be mounted nor contained in the cardboard prototype, instead connected by wires to ensure a small footprint. The idea behind this prototype is a discreet camera (ie security camera) within home use hence the emphasis on size. The screen is also not used here.
 
 ![IMG_0098](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/90eae052-baf0-4725-9bb6-12144d4d303a)
 
 #### Sketch 4
 
+Sketch 4 is a direct iteration from sketch 1, but the Pi will be mounted on the product. I opted for a ledge to hold the Pi in place, but also to make it easily removable for repairability & update. This allows the Pi to slide in and out without having to detach the securely mounted camera & sensor. The rear screen can also be used to display any information.
+
 ![IMG_0099](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/3071d4fe-46c3-447a-8a43-3b503bac79cf)
 
 #### Sketch 5
+
+Sketch 5 takes on the design where the Pi will be enclosed in the same cardboard body as the camera and the proximity sensor. The body will be securely sealed and it will have a latch/lever. The inspiration behind this sketch is an outdoor version of camera, so the Pi will have to be enclosed to withstand environmental factors such as rain, wind & dust. 
 
 ![IMG_0100](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/05366474-5cc7-4541-9b37-9c34b701a37c)
 
