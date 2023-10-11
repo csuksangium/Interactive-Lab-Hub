@@ -215,8 +215,13 @@ Sketch 5 takes on the design where the Pi will be enclosed in the same cardboard
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+Some of the questions raised by the sketches is how small can I make my prototype for its use cases to be viable & if it is ok for the Pi to be attached or can be Pi exist outside. 
+
+I need to physically prototype to see the footprint in real life as I suspect the constraint (size of camera) will disallow it to be a discrete camera. I also need to physically test to see if the Pi will be difficult to operate if contained in the prototype? If it is ok to be outside entirely to keep it small?
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+I will attempt to prototype sketch 3.
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -266,6 +271,14 @@ Think about how you want to present the information about what your sensor is se
 Build a cardboard prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+
+<img width="579" alt="Screen Shot 2566-10-10 at 23 43 08" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/7c62615f-4c29-4435-91a9-5ec034b1c345">
+
+<img width="585" alt="Screen Shot 2566-10-10 at 23 43 18" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/91bfbb6e-f03d-4354-a911-14bca4b3f0a8">
+
+<img width="577" alt="Screen Shot 2566-10-10 at 23 43 28" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/631b5631-b8be-4dac-86fd-200f035cd6e8">
+
+<img width="587" alt="Screen Shot 2566-10-10 at 23 43 35" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/3e75162f-8631-4b3e-b7bd-082de974ce23">
 
 
 LAB PART 2
