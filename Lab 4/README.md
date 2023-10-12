@@ -284,9 +284,15 @@ Think about how you want to present the information about what your sensor is se
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+Some of the things that these sketches raise as questions would be if the mounting of the camera position, sensors, and Pi/screen would be feasible in a prototype of such dimension because securing the sensors next to the camera since it will require space to hold the sensor and camera in place.
+
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+I will initially prototype with sketch #1 to get the basic functionality working and continue to add screen if it improves the product.
+
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+The design is aimed to be as compact as possible as the footprint will only need to contain the camera & sensor. I intend to initially control the device from the outside as the cable with the camera is quite bulky and would take up a lot of space. I also aim to put the sensor in front with the camera so it will be activated when subject stands in front. Other sides of the product is unused.
 
 Build a cardboard prototype of your design.
 
