@@ -391,6 +391,27 @@ The following resources are good starts on how to stream video:
 
 ### Record
 
+#### "Looks Like": shows how the device should look, feel, sit, weigh, etc.
+
+The prototype from front view shows a cut out for the proximity sensor to operate and a cut out for the camera. I opted for a flap to protect the camera lens when not in use.
+
+<img width="590" alt="Screen Shot 2566-10-23 at 22 57 13" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/f5b20a67-c446-4a10-ad65-76295a2bfff5">
+
+<img width="585" alt="Screen Shot 2566-10-23 at 22 57 34" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/58424ebd-8a99-4ab5-b9d2-3eaa17334320">
+
+
+
+<img width="591" alt="Screen Shot 2566-10-23 at 22 57 22" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/1626e4b6-de7a-4db6-a963-9a2b3e6bc3e7">
+
+<img width="586" alt="Screen Shot 2566-10-23 at 22 57 04" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/793ffd27-b281-4595-8a5f-da7c85a05669">
+
+
+#### "Works Like": shows what the device can do.
+
+#### "Acts Like": shows how a person would interact with the device.
+
+https://youtu.be/yeyS0QwVukE
+
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 * "Works like": shows what the device can do
