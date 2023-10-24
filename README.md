@@ -11,7 +11,7 @@ Please navigate to the relevant labs below:
 
 [Lab 4. Ph-UI!!!](Lab%204/)
 
-Lab 5. Observant Systems
+[Lab 5. Observant Systems](Lab%205/)
 
 Lab 6. Little Interactions Everywhere
 
