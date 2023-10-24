@@ -393,27 +393,29 @@ The following resources are good starts on how to stream video:
 
 #### "Looks Like": shows how the device should look, feel, sit, weigh, etc.
 
-The prototype from front view shows a cut out for the proximity sensor to operate and a cut out for the camera. I opted for a flap to protect the camera lens when not in use.
+The prototype from front view shows a cut out for the proximity sensor to operate and a cut out for the camera. I opted for a flap to protect the camera lens when not in use. The prototype sits flat on the base.
 
 <img width="590" alt="Screen Shot 2566-10-23 at 22 57 13" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/f5b20a67-c446-4a10-ad65-76295a2bfff5">
 
+The prototype from top view with the removable top to allow the camera and proximity sensor to be removed. The footprint is very small and no room for the wire nor to Pi to fit inside therefore it weighs around the same as the camera.
+
 <img width="585" alt="Screen Shot 2566-10-23 at 22 57 34" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/58424ebd-8a99-4ab5-b9d2-3eaa17334320">
 
-
+The cutout to allow the wires connecting the camera to the Pi and the proximity sensor externally
 
 <img width="591" alt="Screen Shot 2566-10-23 at 22 57 22" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/1626e4b6-de7a-4db6-a963-9a2b3e6bc3e7">
 
+Top view of the camera with a Pi for scale to understand the size
+
 <img width="586" alt="Screen Shot 2566-10-23 at 22 57 04" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/793ffd27-b281-4595-8a5f-da7c85a05669">
 
-
 #### "Works Like": shows what the device can do.
+
+The diagram below demonstrates how the device can be activated and interacted with. After the chain of events leading to the screen step, the potential is limitless as you can persist & log the footage, apply computer vision, etc.
+
+![IMG_0112](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/64fa7b50-115c-4fc2-aa58-4882d856f335)
 
 #### "Acts Like": shows how a person would interact with the device.
 
 https://youtu.be/yeyS0QwVukE
-
-Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
-* "Looks like": shows how the device should look, feel, sit, weigh, etc.
-* "Works like": shows what the device can do
-* "Acts like": shows how a person would interact with the device
 
