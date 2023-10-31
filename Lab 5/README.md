@@ -224,6 +224,8 @@ To a user, X should feel like a smart camera assistant that not only captures th
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
+Please see video above
+
 ### Part 2.
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
