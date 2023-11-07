@@ -231,3 +231,30 @@ Please see video above
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+
+
+
+Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
+
+***Include a short video demonstrating the finished result.***
+
+Our final project code is in:
+Finished Result Video:
+Development Process Documentation
+Several issues arose, as well as changes and enhancements that were made during our development process. The purpose of this section is to document these occurrences to assist future students or individuals who might encounter similar challenges or seek inspiration.
+
+Gesture Recognition:
+In our project, gesture recognition was a pivotal feature, acting as the camera's shutter mechanism. Initially, we utilized models from Teachable Machine, training several versions. Although all models functioned within the web UI, we observed a noticeable decline in accuracy when implementing them on the Raspberry Pi. This led to a high rate of false positives, prematurely triggering the camera's shutter. Consequently, we investigated alternative models and found MediaPipe to be substantially more precise, aligning with our goal of replacing a physical button press with a gesture to trigger the camera's shutter. However, MediaPipe's user interface featured an obtrusive and complex overlay, which we preferred not to transmit to the AI Image Processing API. To address this, we disabled the line containing the self.mpDraw.draw_landmarks function.
+
+Enhancing Fun:
+Our initial prototype functioned with a single gesture. Due to challenges with gesture recognition, we could not enhance the interaction further at that time. In our second iteration, with the improved accuracy of MediaPipe, we could build upon our original concept. MediaPipe enabled the recognition of various gestures, such as thumbs up, thumbs down, the victory sign, pointing finger, closed fist, and open palm. We developed a unique "AI filter" for each gesture, transforming the experience from taking a single type of photo to enabling six distinct kinds!
+
+Speed and AI Model Efficiency:
+We were fortunate that one of our team members had an abundance of credits from a previous hackathon. The initial AI model we employed was costly, charging 17 cents per usage, which became prohibitive during debugging phases. With the available credits, we opted for a more efficient and faster model, greatly benefiting our project without the constraint of additional cost.
+
+Improvements for the future:
+Hardware:
+Regarding hardware, in this iteration of our project, we constructed a prototype using cardboard for the structure and utilized the camera that was provided to us. This approach was practical for the development and testing phases, allowing us to focus on functionality without the need for complex hardware setups. Nevertheless, as we consider the future of this project, we aim to refine the design. Transitioning to a 3D-printed casing would not only improve the durability and aesthetic of our device but also provide a more professional and sleek look. Additionally, we would explore options for upgrading the camera to enhance image quality and add features that might benefit from higher resolution and better sensor capabilities.
+
+Software:
+On the software side, the current setup requires running the script within a VNC environment. While this is functional, it's not the most user-friendly or accessible method. Our goal for the next phase is to create a more polished output system. Ideally, this would involve developing a simple web application that would allow users to view the captured images in higher quality on their personal devices such as phones or computers. Another exciting enhancement would be integrating a mobile screen into the 3D-printed casing, providing immediate and convenient viewing directly on the device. This would significantly improve the user experience by making it easier to interact with and enjoy the functionality of our project.
