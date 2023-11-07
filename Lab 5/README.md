@@ -232,7 +232,7 @@ Following exploration and reflection from Part 1, finish building your interacti
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
 
-
+https://youtube.com/shorts/gKjoX4K7U4w?feature=share
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
