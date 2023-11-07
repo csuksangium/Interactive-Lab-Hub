@@ -232,14 +232,12 @@ Following exploration and reflection from Part 1, finish building your interacti
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
 
+Finished Result Video:
 https://youtube.com/shorts/gKjoX4K7U4w?feature=share
 
-Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
-
-***Include a short video demonstrating the finished result.***
-
 Our final project code is in:
-Finished Result Video:
+https://github.com/csuksangium/Interactive-Lab-Hub/blob/Fall2023/Lab%205/gesture_rec.py
+
 Development Process Documentation
 Several issues arose, as well as changes and enhancements that were made during our development process. The purpose of this section is to document these occurrences to assist future students or individuals who might encounter similar challenges or seek inspiration.
 
