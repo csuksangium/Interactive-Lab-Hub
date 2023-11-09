@@ -13,7 +13,7 @@ Please navigate to the relevant labs below:
 
 [Lab 5. Observant Systems](Lab%205/)
 
-Lab 6. Little Interactions Everywhere
+[Lab 6. Little Interactions Everywhere](Lab%206/)
 
 [Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
 
