@@ -12,7 +12,7 @@ PolyPi is shaped like a camera to be a tool that is intuitive to all users. The 
 
 ## Implementation & Process
 
-After the initial ideation & planning, the implementation of creating the PolyPi can be divided into 2 parts: the software and the hardware
+After the initial ideation & planning, the process in creating the PolyPi can be divided into 2 parts: the software and the hardware
 
 #### Software
 The software development of PolyPi was more tedious than we initially anticipated as there were a lot of unseen complications throughout the entire process. The first iteration of the software was done with a webcam & VNC Viewer. We had a working OpenCV + MediaPipe object detection, but adding translation made the product unusable as it took too much computing power. After exploring countless different object detection models & translation methods, we found that loading a English to foreign language dictionary mapping performed the best. 
