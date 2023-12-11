@@ -1,5 +1,5 @@
 # PolyPi - An Interactive Language Learning Tool
-### Collaborators: Chanan Suksangium (cs2475), Stanley Walker (sv523), Thomas Wallace (tw526)
+#### Collaborators: Chanan Suksangium (cs2475), Stanley Walker (sv523), Thomas Wallace (tw526)
 
 <img width="963" alt="Screen Shot 2566-12-10 at 22 38 47" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/7f83d76f-e68b-415a-bb60-287b9012e808">
 
