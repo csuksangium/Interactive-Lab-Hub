@@ -1,5 +1,5 @@
 # PolyPi
-## Collaborators: Chanan Suksangium (cs2475), Stanley Walker (sv523@cornell.edu), Thomas Wallace (tw526@cornell.edu)
+## Collaborators: Chanan Suksangium (cs2475), Stanley Walker (sv523), Thomas Wallace (tw526)
 
 ## Overview
 
