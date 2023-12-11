@@ -7,7 +7,7 @@ PolyPi is a language learning interactive device that aims to help users learn f
 
 ## Design
 
-xyz
+PolyPi is shaped like a camera to be a tool that is intuitive to all users. The product uses a Raspberry Pi 4 that is fitted with a Raspberry Pi High Quality Camera, Pimoroni HyperPixel 4.0 Square Hi-Res Display, Waveshare Industrial Zoom Lens (C-Mount), and a USB microphone.
 
 
 ## Implementation & Process
