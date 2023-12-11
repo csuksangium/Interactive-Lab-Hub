@@ -12,5 +12,10 @@ PolyPi is shaped like a camera to be a tool that is intuitive to all users. The 
 
 ## Implementation & Process
 
+After the initial ideation & planning, the implementation & process of creating the PolyPi can be divided into 2 parts: the hardware and the software:
+
+#### Software
+
+#### Hardware
 
 ## Demo Video
