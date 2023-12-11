@@ -31,3 +31,12 @@ In the final iteration of the software, we
 ### Hardware
 
 ## Demo Video
+
+
+## Contributions
+Ideation - Chanan, Stanley, Thomas
+Model Design - Stanley, Thomas
+Software - Chanan
+Hardware - Stanley, Thomas
+Testing - Chanan, Stanley, Thomas
+Video - Chanan, Stanley, Thomas
