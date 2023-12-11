@@ -23,6 +23,8 @@ After obtaining the hardwares for the final product (Pi Camera & Hyperpixel 4), 
 - The Hyperpixel Screen does not work with the Pi Camera and required settings to be overridden
 - The Hyperpixel Screen uses every single GPIO port & requires i2c & SPI disabled, so the shim cannot be added
 
+In the final iteration of the software, we arrived at a solution where
+
 #### Hardware
 
 ## Demo Video
