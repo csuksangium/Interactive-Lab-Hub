@@ -34,9 +34,9 @@ In the final iteration of the software, we
 
 
 ## Contributions
-- *Ideation* - Chanan, Stanley, Thomas
-- *Product Design* - Stanley, Thomas
-- *Software* - Chanan
-- *Hardware* - Stanley, Thomas
-- *Testing* - Chanan, Stanley, Thomas
-- *Video* - Chanan, Stanley, Thomas
+- **Ideation** - Chanan, Stanley, Thomas
+- **Product Design** - Stanley, Thomas
+- **Software** - Chanan
+- **Hardware** - Stanley, Thomas
+- **Testing** - Chanan, Stanley, Thomas
+- **Video & Demo Production** - Chanan, Stanley, Thomas
