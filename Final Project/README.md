@@ -8,3 +8,9 @@ PolyPi is a ....
 ## Design
 
 xyz
+
+
+## Implementation & Process
+
+
+## Demo Video
