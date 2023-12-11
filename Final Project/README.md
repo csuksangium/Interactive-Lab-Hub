@@ -1,4 +1,4 @@
-# PolyPi - An Interactive Language Learning Tool
+# PolyPi - Learn What You See: An Interactive, Multilingual Journey Through Object Recognition
 #### Collaborators: Chanan Suksangium (cs2475), Stanley Walker (sv523), Thomas Wallace (tw526)
 
 <img width="961" alt="Screen Shot 2566-12-10 at 22 40 16" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/8d123267-6548-4e06-b810-6f52884d4317">
