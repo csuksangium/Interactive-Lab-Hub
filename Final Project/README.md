@@ -9,6 +9,8 @@ PolyPi is a language learning interactive device that aims to help users learn f
 
 ## Initial Project Plan
 
+<img width="929" alt="Screen Shot 2566-12-13 at 14 38 38" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/30ce7aac-e852-4387-9547-cea7ca9cdb41">
+
 ## Setup
 
 To run PolyPi, you will need:
@@ -22,7 +24,7 @@ To run PolyPi, you will need:
 After cloning the repository
 
 1. Run setup.sh to install requirements & download object detection model
-2. Run detect.py
+2. Run detect.py to begin PolyPi
 
 ## Design
 
