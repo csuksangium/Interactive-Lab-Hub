@@ -117,3 +117,7 @@ https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/da9cb036-f6ce
 - **Hardware** - Stanley, Thomas
 - **Testing** - Chanan, Stanley, Thomas
 - **Video & Demo Production** - Chanan, Stanley, Thomas
+
+
+<img width="1035" alt="Screen Shot 2566-12-13 at 15 17 31" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/5ddfe18f-be10-423b-8fdb-3a59f13585ff">
+
