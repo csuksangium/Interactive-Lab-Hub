@@ -46,6 +46,8 @@ Voice Recognition:
 
 ## Demo Video
 
+https://youtube.com/shorts/uEAft7H1vXQ?si=N3X87cuG9Mz5X2Iq
+
 ## Contributions
 - **Ideation** - Chanan, Stanley, Thomas
 - **Product Design** - Stanley, Thomas
