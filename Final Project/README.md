@@ -26,7 +26,7 @@ After obtaining the hardwares for the final product (Pi Camera & Hyperpixel 4), 
 - The Hyperpixel Screen does not work with the Pi Camera and required settings to be overridden
 - The Hyperpixel Screen uses every single GPIO port & requires i2c & SPI disabled, so the shim cannot be added
 
-In the final iteration of the software can be split into 3 components:
+In the final iteration of the software is composed of 3 components:
 
 
 Camera:
@@ -45,7 +45,6 @@ Voice Recognition:
 ### Hardware
 
 ## Demo Video
-
 
 ## Contributions
 - **Ideation** - Chanan, Stanley, Thomas
