@@ -32,7 +32,7 @@ PolyPi is shaped like a camera to be a tool that is intuitive to all users. The 
 
 ### Sketch:
 
-![edc312aa-58ce-477e-b79b-d3edb6604776](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/4e85e699-f0d3-4adb-8ad3-848117feaf22 | width=100)
+![edc312aa-58ce-477e-b79b-d3edb6604776](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/4e85e699-f0d3-4adb-8ad3-848117feaf22)
 
 ![edc312aa-58ce-477e-b79b-d3edb6604776](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/feafd43e-7a8d-4f9f-981a-aa0c1bfe9860)
 
