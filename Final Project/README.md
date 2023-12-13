@@ -26,7 +26,15 @@ After obtaining the hardwares for the final product (Pi Camera & Hyperpixel 4), 
 - The Hyperpixel Screen does not work with the Pi Camera and required settings to be overridden
 - The Hyperpixel Screen uses every single GPIO port & requires i2c & SPI disabled, so the shim cannot be added
 
-In the final iteration of the software, we 
+In the final iteration of the software can be split into 3 components:
+Camera:
+- PiCam2
+Object Detection:
+- Tensorflow Lite
+- efficientdet_lite0.tflite model
+Voice Recognition:
+- Vosk
+- KaldiRecognizer
 
 ### Hardware
 
