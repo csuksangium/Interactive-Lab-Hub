@@ -1,0 +1,5 @@
+picamera2
+cv2
+tflite_support
+vosk
+sounddevice
