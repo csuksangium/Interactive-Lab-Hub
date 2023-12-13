@@ -7,6 +7,8 @@
 
 PolyPi is a language learning interactive device that aims to help users learn foreign language of choice. Users can begin learning by looking at objects through the lens of PolyPi, and PolyPi will handle the rest through object detection and translation. To set the language of PolyPi, users simply say the language out loud. At launch, the supported languages are English, Spanish and French.
 
+## Initial Project Plan
+
 ## Setup
 
 To run PolyPi, you will need:
