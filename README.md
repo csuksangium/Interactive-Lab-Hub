@@ -1,5 +1,8 @@
 # Chanan Suksangium's-Lab-Hub
-for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/) Fall 2023 at Cornell Tech taught by Professor Wendy Ju
+for [Interactive Device Design](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/) (CS5424) Fall 2023 at Cornell Tech
+
+Professor: Wendy Ju
+TA: Hauke Sandhaus & Maria Teresa Parreira
 
 Please navigate to the relevant labs below:
 
