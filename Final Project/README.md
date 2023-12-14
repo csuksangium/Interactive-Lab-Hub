@@ -73,9 +73,11 @@ Voice Recognition:
 
 ### Hardware & Product Design
 
+For product design, rendering, and 3D printing we used Fusion360
+
 #### Iteration 1:
 
-In the first iteration of the product, we 3D printed a compact camera housing for the raspberry pi, camera, and the screen. The mount fits the components well, but as a product design overall the ergonomics could be improved.
+In the first iteration of the product, we brainstormed that the interactability of PolyPi should be universally operable, so we designed & 3D printed a compact camera housing for the raspberry pi, camera, and the screen as most users are familiar with traditional cameras. The mount fits the components well, but as a product design overall the ergonomics could be improved given the size and weight.
 
 ![861f4ced-0950-4b87-a73a-1a03955acd6c](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/599eb0c3-005e-47e6-bc8d-4474a37cbf16)
 
@@ -88,6 +90,8 @@ In the first iteration of the product, we 3D printed a compact camera housing fo
 ![a79c9cf2-11cc-4168-bcfe-e13ad38aafd1](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/9550fa78-ea3a-4015-a4c9-ada6c320012d)
 
 #### Iteration 2:
+
+In the second iteration, we focused on improving the body of the camera & designed a new body that encases the compact 1st iteration of PolyPi and did an initial product test by assembling and interacting with the product.
 
 ![7b73c3e7-7ceb-403f-947a-4c3b6b8d5308](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/85c14452-e20a-45f1-95d9-e1823b02842c)
 
