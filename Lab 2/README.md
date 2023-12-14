@@ -4,23 +4,6 @@ Does it feel like time is moving strangely during this semester?
 
 For our first Pi project, we will pay homage to the [timekeeping devices of old](https://en.wikipedia.org/wiki/History_of_timekeeping_devices) by making simple clocks.
 
-It is worth spending a little time thinking about how you mark time, and what would be useful in a clock of your own design.
-
-**Please indicate anyone you collaborated with on this Lab here.**
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
-## Prep
-
-2. ### Get Kit and Inventory Parts
-Prior to the lab session on Thursday, taken inventory of the kit parts that you have, and note anything that is missing:
-
-***Update your [parts list inventory](partslist.md)***
-
-3. ### Prepare your Pi for lab this week
-[Follow these instructions](prep.md) to download and burn the image for your Raspberry Pi before lab Thursday.
-
-
-
 
 ## Overview
 For this assignment, you are going to 
@@ -40,8 +23,6 @@ F) [Make a short video of your modified barebones PiClock](#part-f)
 G) [Sketch and brainstorm further interactions and features you would like for your clock for Part 2.](#part-g)
 
 ## The Report
-
-Labs are due on Mondays. Make sure this page is linked to on your main class hub page.
 
 ## Part A. 
 ### Connect to your Pi
