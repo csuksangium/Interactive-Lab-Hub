@@ -24,7 +24,7 @@ To run PolyPi, you will need:
 After cloning the repository
 
 1. Run setup.sh to install requirements & download object detection model
-2. Run detect.py to begin PolyPi
+2. Run detect.py to begin running PolyPi
 
 ## Design
 
@@ -36,7 +36,7 @@ PolyPi is shaped like a camera to be a tool that is intuitive to all users. The 
 
 ![edc312aa-58ce-477e-b79b-d3edb6604776](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/feafd43e-7a8d-4f9f-981a-aa0c1bfe9860)
 
-### Render:
+### Render (using Fusion360):
 
 https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/fa131970-cc51-48db-b01a-ea9979f56265
 
