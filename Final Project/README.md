@@ -71,9 +71,11 @@ Voice Recognition:
 - Vosk
 - KaldiRecognizer
 
-### Hardware
+### Hardware & Product Design
 
 #### Iteration 1:
+
+In the first iteration of the product, we 3D printed a compact camera housing for the raspberry pi, camera, and the screen. The mount fits the components well, but as a product design overall the ergonomics could be improved.
 
 ![861f4ced-0950-4b87-a73a-1a03955acd6c](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/599eb0c3-005e-47e6-bc8d-4474a37cbf16)
 
