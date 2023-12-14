@@ -91,13 +91,20 @@ In the first iteration of the product, we brainstormed that the interactability 
 
 #### Iteration 2:
 
-In the second iteration, we focused on improving the body of the camera & designed a new body that encases the compact 1st iteration of PolyPi and did an initial product test by assembling and interacting with the product.
+In the second iteration, we focused on improving the body of the camera & designed a new body that encases the compact 1st iteration of PolyPi and did an initial product test by assembling and interacting with the product, taking notes of the measurements and styling that needed changing.
 
 ![7b73c3e7-7ceb-403f-947a-4c3b6b8d5308](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/85c14452-e20a-45f1-95d9-e1823b02842c)
 
 ![2730edd1-90e2-4568-a3cc-0635391713ab](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/927ed2e2-210b-47dd-9df2-911cfc972d6c)
 
 #### Iteration 3 (Final):
+
+In the third (final) iteration of the hardware & product design, we kept the previous designs, and did incremental refinements for the demo, which includes:
+
+- Reprinting the case black for aesthetic purposes
+- Adding grooves and curves to improve the ergonomics
+- Adding rounded edges for the screen to better integrate the screen into the camera body
+- Modifying and cutting open the case for ports & cables accessibility
 
 ![178a4177-0bb6-44be-b2a7-cd71bd2494e2](https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/1bf91102-9e26-4d7e-a66d-9d02f5a16544)
 
