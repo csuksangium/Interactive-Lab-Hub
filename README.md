@@ -15,7 +15,7 @@ Please navigate to the relevant labs below:
 
 [Lab 6. Little Interactions Everywhere](Lab%206/)
 
-[Final Project](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
+[Final Project](https://github.com/csuksangium/Interactive-Lab-Hub/blob/Fall2023/Final%20Project/README.md)
 
 [Online Repository](https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices/blob/2023Fall/FinalProject.md)
 
