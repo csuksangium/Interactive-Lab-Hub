@@ -44,6 +44,7 @@ Taking inspiration from Polaroid 300 & the side grips on DSLR's:
 
 https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/fa131970-cc51-48db-b01a-ea9979f56265
 
+[link to render](https://a360.co/41nqTCc)
 ## Implementation & Process
 
 After the initial ideation & planning, the process of creating the PolyPi can be divided into 2 parts: the software and the hardware
@@ -117,6 +118,8 @@ In the third (final) iteration of the hardware & product design, we kept the pre
 - Adding grooves and curves to improve the ergonomics
 - Adding rounded edges for the screen to better integrate the screen into the camera body
 - Modifying and cutting open the case for ports & cables accessibility
+
+[link to render](https://a360.co/41nqTCc)
 
 <img alt="Description of image 1" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/1bf91102-9e26-4d7e-a66d-9d02f5a16544">
 <img width="330" height="440" alt="Description of image 2" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/f04f1c2b-037d-4a68-80ea-8fd1caa11c7e">
