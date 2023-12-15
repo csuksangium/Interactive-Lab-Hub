@@ -57,8 +57,8 @@ https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/d4481fbb-4f5b
 
 This was our last version
 
+https://github.com/csuksangium/Interactive-Lab-Hub/assets/11597920/a09c330a-e762-46b7-96fe-407b64c2d0cb
 
-https://github.com/csuksangium/Interactive-Lab-Hub/assets/11597920/d40ca9fb-9aa3-4cb0-99c5-e659d7b532e1
 
 
 
@@ -103,6 +103,8 @@ In the product's first iteration, we brainstormed that the interactability of Po
 In the second iteration, we focused on improving the body of the camera & designed a new body that encased the compact 1st iteration of PolyPi and did an initial product test by assembling and interacting with the product, taking notes of the measurements and styling that needed changing.
 
 
+
+<img width="330" height="440" alt="Description of image 1" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/11597920/3ca0fd88-9e4a-41e5-b373-4ed73b01182f">
 <img width="330" height="440" alt="Description of image 1" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/85c14452-e20a-45f1-95d9-e1823b02842c">
 <img width="330" height="440" alt="Description of image 1" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/927ed2e2-210b-47dd-9df2-911cfc972d6c">
 
