@@ -35,6 +35,11 @@ PolyPi is shaped like a camera to be a tool that is intuitive to all users. The 
 <img width="500" height="400" alt="Ideation 1" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/11597920/062de37a-858a-4bef-aed3-3654879c98f7">
 <img width="500" height="400" alt="Ideation 2" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/11597920/5e25a618-a7e6-4e36-9484-2c98f36d1228">
 
+Taking inspiration from Polaroid 300 & the side grips on DSLR's:
+
+<img width="500" height="500" alt="Ideation 2" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/11597920/c3b17269-c0cc-4bea-8e4c-8ffbafd3631d">
+<img width="500" height="250" src="https://github.com/csuksangium/Interactive-Lab-Hub/assets/11597920/397a1246-4cd3-4dce-9d8d-f6c3a91f57a9">
+
 ### Render (using Fusion360):
 
 https://github.com/csuksangium/Interactive-Lab-Hub/assets/24725647/fa131970-cc51-48db-b01a-ea9979f56265
